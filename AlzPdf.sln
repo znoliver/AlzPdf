@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlzPdf", "Src\AlzPdf.csproj", "{00531D78-CA5C-449E-AA8A-0CF7F8878EE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadFromFileDemo", "Samples\LoadFromFileDemo\LoadFromFileDemo.csproj", "{A129FC9F-F892-4EC2-AA8E-2CCB6AC815EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00531D78-CA5C-449E-AA8A-0CF7F8878EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00531D78-CA5C-449E-AA8A-0CF7F8878EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00531D78-CA5C-449E-AA8A-0CF7F8878EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00531D78-CA5C-449E-AA8A-0CF7F8878EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A129FC9F-F892-4EC2-AA8E-2CCB6AC815EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A129FC9F-F892-4EC2-AA8E-2CCB6AC815EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A129FC9F-F892-4EC2-AA8E-2CCB6AC815EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A129FC9F-F892-4EC2-AA8E-2CCB6AC815EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
